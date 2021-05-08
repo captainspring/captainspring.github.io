@@ -1,8 +1,8 @@
 Тестовое задание для Skillbox
 ---
 
-➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)<br/>
-➡️ [Посмотреть результат в браузере](https://captainspring.github.io/index.html)
+➡️ [Посмотреть результат в браузере](https://captainspring.github.io/index.html)<br/>
+➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)
 
 **ТЗ:**<br/>
 ☑️ вёрстка без использования библиотек;<br/>
