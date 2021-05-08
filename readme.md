@@ -1,7 +1,7 @@
 Тестовое задание для Skillbox
 ---
 
-➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)
+➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)<br/>
 ➡️ [Посмотреть результат в браузере](https://captainspring.github.io/index.html)
 
 **ТЗ:**<br/>
