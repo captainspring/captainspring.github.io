@@ -2,6 +2,7 @@
 ---
 
 ➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)
+➡️ [Посмотреть результат в браузере](https://captainspring.github.io/index.html)
 
 **ТЗ:**<br/>
 ☑️ вёрстка без использования библиотек;<br/>
