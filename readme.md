@@ -1,5 +1,6 @@
 Тестовое задание для Skillbox
 ---
+*Яна Клоус-Иванова*
 
 ➡️ [Посмотреть результат в браузере](https://captainspring.github.io/index.html)<br/>
 ➡️ [Посмотреть рабочий репозиторий](https://github.com/captainspring/skillbox-20210507)
